@@ -166,3 +166,4 @@ require_once get_template_directory() . '/widgets/widgets.php';
 require_once get_template_directory() . '/inc/tgm.php';
 require_once get_template_directory() . '/inc/cmb2.php';
 require_once get_template_directory() . '/inc/acf.php';
+require_once get_template_directory() . '/inc/demo-data-content.php';
