@@ -7,7 +7,7 @@ function philosophy_import_files() {
 			'local_import_file'            => trailingslashit( get_template_directory() ) . 'inc/demo-data/demo-content.xml',
 			'local_import_widget_file'     => trailingslashit( get_template_directory() ) . 'inc/demo-data/widgets.wie',
 			'import_preview_image_url'     => trailingslashit( get_template_directory() ) . 'inc/demo-data/preview_image.jpg',
-			'import_notice'                => __( 'After you import this demo, you will have to setup the slider separately.', 'your-textdomain' ),
+			'import_notice'                => __( 'After you import this demo, you will have to setup the slider separately.', 'philosophy' ),
 		),
 	);
 }
